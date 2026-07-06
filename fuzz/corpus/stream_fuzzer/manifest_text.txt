@@ -1,0 +1,7 @@
+[site]
+site=harbor-east
+incident=flood-watch
+mode=monitor
+rotation=no
+contact=ops-desk
+anchor=radio-room
